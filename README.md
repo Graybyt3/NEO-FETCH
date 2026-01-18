@@ -5,7 +5,7 @@
 Tested on : Garuda Linux (Arch) - Fish : 4.3.3
 
 ## Preview
-<!-- ![neofetch-preview](Graybyt3/NEO-FETCH/blob/main/neofetch-preview.png) -->
+<!-- ![neofetch-preview](https://raw.githubusercontent.com/Graybyt3/NEO-FETCH/refs/heads/main/neofetch-preview.png) -->
 
 Purpose:  
 Older neofetch versions (≤ 7.0.x, ) relied on predefined variables:
