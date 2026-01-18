@@ -1,4 +1,4 @@
-# 🐧 GRAYBYTE - CUSTOM NEOFETCH CONFIGURATION 🐧
+# 🐧 GRAYBYTE - CUSTOM NEOFETCH CONF 🐧
 
 ## Compatibility & Update Notes
 
